@@ -1,3 +1,3 @@
 # HackerRank_Problem_Solving_Basic_Certification
 
-![problem_solving_basic certificat](problem_solving_basic certificat.jpg)
+![Problem Solving Basic Certificat](problem_solving_basic_certificat.jpg)
