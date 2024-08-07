@@ -1,0 +1,14 @@
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\bin\Debug\net8.0\findSumOfSubArray.exe
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\bin\Debug\net8.0\findSumOfSubArray.deps.json
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\bin\Debug\net8.0\findSumOfSubArray.runtimeconfig.json
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\bin\Debug\net8.0\findSumOfSubArray.dll
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\bin\Debug\net8.0\findSumOfSubArray.pdb
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\findSumOfSubArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\findSumOfSubArray.AssemblyInfoInputs.cache
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\findSumOfSubArray.AssemblyInfo.cs
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\findSumOfSubArray.csproj.CoreCompileInputs.cache
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\findSumOfSubArray.dll
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\refint\findSumOfSubArray.dll
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\findSumOfSubArray.pdb
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\findSumOfSubArray.genruntimeconfig.cache
+D:\HackerRank\Problem_Solving_Basic\findSumOfSubArray\obj\Debug\net8.0\ref\findSumOfSubArray.dll

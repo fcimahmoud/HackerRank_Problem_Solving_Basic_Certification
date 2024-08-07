@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HackerRank\\Problem_Solving_Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A67A82C-C2B5-4750-A9FF-72A208546D0F}|mostBalancedPartition\\mostBalancedPartition.csproj|d:\\hackerrank\\problem_solving_basic\\mostbalancedpartition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A67A82C-C2B5-4750-A9FF-72A208546D0F}|mostBalancedPartition\\mostBalancedPartition.csproj|solutionrelative:mostbalancedpartition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C165E5B4-58FA-4792-B72A-D26F01F62F0A}|findSumOfSubArray\\SubArray_Sums.csproj|d:\\hackerrank\\problem_solving_basic\\findsumofsubarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C165E5B4-58FA-4792-B72A-D26F01F62F0A}|findSumOfSubArray\\SubArray_Sums.csproj|solutionrelative:findsumofsubarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HackerRank\\Problem_Solving_Basic\\findSumOfSubArray\\Program.cs",
+              "RelativeDocumentMoniker": "findSumOfSubArray\\Program.cs",
+              "ToolTip": "D:\\HackerRank\\Problem_Solving_Basic\\findSumOfSubArray\\Program.cs",
+              "RelativeToolTip": "findSumOfSubArray\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:27:59.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HackerRank\\Problem_Solving_Basic\\mostBalancedPartition\\Program.cs",
+              "RelativeDocumentMoniker": "mostBalancedPartition\\Program.cs",
+              "ToolTip": "D:\\HackerRank\\Problem_Solving_Basic\\mostBalancedPartition\\Program.cs",
+              "RelativeToolTip": "mostBalancedPartition\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:42:37.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

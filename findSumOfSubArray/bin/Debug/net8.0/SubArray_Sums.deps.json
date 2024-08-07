@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SubArray_Sums/1.0.0": {
+        "runtime": {
+          "SubArray_Sums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SubArray_Sums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
